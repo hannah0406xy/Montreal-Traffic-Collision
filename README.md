@@ -73,11 +73,11 @@ This analysis provides **data-driven recommendations** for:
 - **Machine Learning:** Scikit-learn, XGBoost, Random Forest  
 - **Data Visualization:** Matplotlib, Seaborn, Tableau  
 
-## 📢 Contributors  
-👨‍💻 **Shuxi Chen**  
+## 📢 Contributors 
+👩‍💻 **Xinyi Wang**  
 👨‍💻 **JaeYoon Lee**  
+👩‍💻 **Shuxi Chen**   
 👩‍💻 **Yifei Liu**  
-👩‍💻 **Hannah Wang**  
 
 📬 For inquiries, feel free to reach out!  
 
