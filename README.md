@@ -68,11 +68,10 @@ This analysis provides **data-driven recommendations** for:
 ---
 
 ## 🛠 Tech Stack  
-- **Programming:** Python, SQL  
+- **Programming:** Python
 - **Data Processing:** Pandas, NumPy  
 - **Machine Learning:** Scikit-learn, XGBoost, Random Forest  
 - **Data Visualization:** Matplotlib, Seaborn, Tableau  
-- **Geospatial Analysis:** ArcGIS, GeoPandas  
 
 ## 📢 Contributors  
 👨‍💻 **Shuxi Chen**  
